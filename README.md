@@ -1,6 +1,9 @@
 # USERS app
 Tutorial from Udemy's course "GraphQL with React: The Complete Developer's Guide" (https://www.udemy.com/course/graphql-with-react-course/)
 
+## Tutorial Code
+https://github.com/StephenGrider/GraphQLCasts/tree/master/users
+
 ## Usage
 To startup the Graphiql server, use the command `npm run dev`.
 
